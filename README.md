@@ -1,6 +1,6 @@
-AI Fake News Detection System
+News style classifier 
 
-This project is an AI-based fake news detection system built using Machine Learning and Hugging Face Inference API. The system takes a news statement as input and predicts whether it is likely to be Fake News or Real News.
+An NLP-based fake news classifier using a fine-tuned Transformer model (BERT/RoBERTa) via the Hugging Face Inference API, deployed as a live Gradio demo. Note: the model detects journalistic writing style/tone patterns rather than verifying real-world facts."
 
 Features:
 Uses a pretrained NLP transformer model
